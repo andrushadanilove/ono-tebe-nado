@@ -97,7 +97,7 @@
 
 .accent_span {
   display: block;
-  min-width: 1000px;
+  min-width: 1030px;
 }
 
 .text_left {
@@ -105,14 +105,12 @@
 }
 
 .text_center {
-  padding-top: 22px;
-  padding-right: 70px;
+  padding-top: 21px;
   text-align: center;
 }
 
 .text_right {
   padding-top: 20px;
-  padding-right: 70px;
   text-align: end;
 }
 
@@ -234,7 +232,7 @@
   display: grid;
   grid-template-columns: 334px repeat(1, 1fr);
   gap: 25px;
-  padding: 34px 24px 0px;
+  padding: 33px 24px 0px;
 }
 
 .about_logo {
